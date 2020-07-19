@@ -1,7 +1,7 @@
 # Hi, I'm Rex 👋
 
-I'm a software engineer working at [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). I'm passionate about contributing to open source projects that help us foster scientific researches and build a better world.
+I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). I'm passionate about contributing to open source projects that help us foster scientific researches and build a better world.
 
 <img src="https://raw.githubusercontent.com/rexwangcc/rexwangcc/master/myself.png" alt="Rex!">
 
-Find more about me at rexwang.cc
+Find more about me at my [blog](rexwang.cc)
