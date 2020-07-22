@@ -31,8 +31,6 @@ def main():
     # watch out for side effects
     code_time_text = f"\n```text\n{fetch_code_time().text}\n```\n"
     md = replace_text(md, code_time_text, "code_time")
-    print(md)
-
 
     # write back the updated contents to self
     README.open("w").write(md)
