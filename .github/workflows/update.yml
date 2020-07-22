@@ -31,7 +31,7 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |-
-        python update.py
+        python updater.py
 
         # print to console for easy debugging
         cat README.md
