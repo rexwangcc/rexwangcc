@@ -17,7 +17,9 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 <!-- code_time starts -->
 
 ```text
-# Rex's Coding Board
+Markdown           32 mins  ███████████████░░░░░  60.7%
+Python             21 mins  ██████████▓░░░░░░░░░  39.2%
+Other               0 secs  ███░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->
