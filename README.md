@@ -17,11 +17,11 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 <!-- code_time starts -->
 
 ```text
-Python      24 hrs 17 mins  █████████████████▓░░  73.4%
-Clojure      6 hrs 12 mins  ██████▓░░░░░░░░░░░░░  18.7%
-Other         1 hr 57 mins  ████░░░░░░░░░░░░░░░░   5.9%
-Markdown           24 mins  ███░░░░░░░░░░░░░░░░░   1.3%
-Bash                4 mins  ███░░░░░░░░░░░░░░░░░   0.2%
+Python      20 hrs 37 mins  ██████████████████░░  76.1%
+Clojure       5 hrs 2 mins  ██████▓░░░░░░░░░░░░░  18.6%
+Other              45 mins  ███▒░░░░░░░░░░░░░░░░   2.8%
+Markdown           24 mins  ███░░░░░░░░░░░░░░░░░   1.5%
+Bash                4 mins  ███░░░░░░░░░░░░░░░░░   0.3%
 Text                3 mins  ███░░░░░░░░░░░░░░░░░   0.2%
 ```
 
