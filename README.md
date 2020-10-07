@@ -17,12 +17,12 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 <!-- code_time starts -->
 
 ```text
-JavaScript  14 hrs 21 mins  ██████████▒░░░░░░░░░  36.8%
-Markdown     11 hrs 9 mins  ████████▓░░░░░░░░░░░  28.6%
-Makefile     5 hrs 49 mins  █████▓░░░░░░░░░░░░░░  14.9%
-JSON         2 hrs 58 mins  ████▒░░░░░░░░░░░░░░░   7.6%
-Clojure       1 hr 25 mins  ███▓░░░░░░░░░░░░░░░░   3.6%
-YAML          1 hr 15 mins  ███▒░░░░░░░░░░░░░░░░   3.2%
+JavaScript  12 hrs 29 mins  █████████▒░░░░░░░░░░  32.7%
+Markdown    11 hrs 13 mins  ████████▓░░░░░░░░░░░  29.4%
+Makefile     7 hrs 22 mins  ██████▓░░░░░░░░░░░░░  19.3%
+JSON         2 hrs 25 mins  ████░░░░░░░░░░░░░░░░   6.4%
+YAML          1 hr 40 mins  ███▓░░░░░░░░░░░░░░░░   4.4%
+Clojure       1 hr 35 mins  ███▓░░░░░░░░░░░░░░░░   4.2%
 ```
 
 <!-- code_time ends -->
