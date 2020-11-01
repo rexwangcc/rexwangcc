@@ -17,12 +17,12 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 <!-- code_time starts -->
 
 ```text
-Markdown      1 hr 21 mins  ████████████▓░░░░░░░  48.4%
-TOML               40 mins  ███████▓░░░░░░░░░░░░  24.4%
-JavaScript         17 mins  █████░░░░░░░░░░░░░░░  10.6%
-Python              9 mins  ████░░░░░░░░░░░░░░░░   5.7%
-Stylus              8 mins  ███▓░░░░░░░░░░░░░░░░   4.9%
-Other               4 mins  ███▒░░░░░░░░░░░░░░░░   2.6%
+Markdown      1 hr 17 mins  ████████████▒░░░░░░░  47.0%
+TOML               40 mins  ███████▓░░░░░░░░░░░░  24.8%
+JavaScript         18 mins  █████░░░░░░░░░░░░░░░  11.2%
+Python              9 mins  ████░░░░░░░░░░░░░░░░   5.8%
+Stylus              8 mins  ████░░░░░░░░░░░░░░░░   5.0%
+Other               4 mins  ███▒░░░░░░░░░░░░░░░░   2.7%
 ```
 
 <!-- code_time ends -->
