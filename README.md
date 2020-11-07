@@ -17,7 +17,7 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 <!-- code_time starts -->
 
 ```text
-Python       9 hrs 50 mins  ██████████████▒░░░░░  57.0%
+Python       9 hrs 49 mins  ██████████████▒░░░░░  57.0%
 Scala        3 hrs 57 mins  ███████▒░░░░░░░░░░░░  22.9%
 Markdown     2 hrs 32 mins  █████▓░░░░░░░░░░░░░░  14.7%
 JSON               18 mins  ███▒░░░░░░░░░░░░░░░░   1.8%
