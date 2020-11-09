@@ -17,12 +17,12 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 <!-- code_time starts -->
 
 ```text
-Python       9 hrs 49 mins  ██████████████▒░░░░░  57.0%
-Scala        3 hrs 57 mins  ███████▒░░░░░░░░░░░░  22.9%
-Markdown     2 hrs 32 mins  █████▓░░░░░░░░░░░░░░  14.7%
-JSON               18 mins  ███▒░░░░░░░░░░░░░░░░   1.8%
-YAML               12 mins  ███░░░░░░░░░░░░░░░░░   1.2%
-Other               8 mins  ███░░░░░░░░░░░░░░░░░   0.8%
+Python       7 hrs 24 mins  █████████████▒░░░░░░  51.9%
+Scala        3 hrs 57 mins  ████████▒░░░░░░░░░░░  27.7%
+Markdown     2 hrs 10 mins  ██████░░░░░░░░░░░░░░  15.3%
+JSON               17 mins  ███▒░░░░░░░░░░░░░░░░   2.1%
+YAML               12 mins  ███░░░░░░░░░░░░░░░░░   1.4%
+Other               8 mins  ███░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time ends -->
