@@ -17,10 +17,11 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 <!-- code_time starts -->
 
 ```text
-JSON               16 mins  ████████████▒░░░░░░░  48.2%
-Bash               10 mins  █████████░░░░░░░░░░░  30.8%
-Python              7 mins  ███████░░░░░░░░░░░░░  20.9%
-Markdown            0 secs  ███░░░░░░░░░░░░░░░░░   0.1%
+JSON               34 mins  ████████████░░░░░░░░  45.6%
+JavaScript         16 mins  ███████▒░░░░░░░░░░░░  22.1%
+Bash               10 mins  █████▓░░░░░░░░░░░░░░  13.8%
+Markdown            7 mins  ████▓░░░░░░░░░░░░░░░   9.6%
+Python              6 mins  ████▓░░░░░░░░░░░░░░░   8.9%
 Other               0 secs  ███░░░░░░░░░░░░░░░░░   0.0%
 ```
 
