@@ -17,12 +17,12 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 <!-- code_time starts -->
 
 ```text
-Java         5 hrs 34 mins  █████████▓░░░░░░░░░░  33.8%
-Markdown      3 hrs 5 mins  ██████▓░░░░░░░░░░░░░  18.7%
-Vue.js        1 hr 55 mins  █████░░░░░░░░░░░░░░░  11.6%
-SQL           1 hr 49 mins  █████░░░░░░░░░░░░░░░  11.0%
-JavaScript    1 hr 35 mins  ████▓░░░░░░░░░░░░░░░   9.7%
-JSON          1 hr 23 mins  ████▓░░░░░░░░░░░░░░░   8.4%
+Java        10 hrs 41 mins  ████████████▓░░░░░░░  48.6%
+Markdown      3 hrs 7 mins  █████▓░░░░░░░░░░░░░░  14.2%
+SQL           2 hrs 6 mins  ████▓░░░░░░░░░░░░░░░   9.6%
+Vue.js        1 hr 57 mins  ████▓░░░░░░░░░░░░░░░   8.9%
+JavaScript    1 hr 35 mins  ████▒░░░░░░░░░░░░░░░   7.3%
+JSON           1 hr 6 mins  ████░░░░░░░░░░░░░░░░   5.0%
 ```
 
 <!-- code_time ends -->
