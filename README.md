@@ -6,14 +6,7 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
-<a href="https://github.com/rexwangcc">
-  <img align="top" src="https://rexwangcc-github-readme-stats.vercel.app/api?username=rexwangcc&show_icons=true&theme=ayu-mirage&custom_title=My%20Github%20Stats" />
-</a>
 <a href="https://github.com/rexwangcc">
   <img align="top" src="https://rexwangcc-github-readme-stats.vercel.app/api/top-langs/?username=rexwangcc&hide=Jupyter%20Notebook&langs_count=6&layout=compact&custom_title=My%20Personal%20Most%20Used%20Languages&theme=ayu-mirage&card_width=445" />
 </a>
