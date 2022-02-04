@@ -19,7 +19,7 @@ jobs:
           dig ${{ github.event.inputs.dns_value }}
       - name: Ping
         run: |
-          ping -c 10 ${{ github.event.inputs.dns_value }}
+          ping -c 1 ${{ github.event.inputs.dns_value }}
       - name: My IP
         run: |
           ip addr
