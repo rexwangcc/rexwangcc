@@ -1,0 +1,25 @@
+name: Test DNS
+on:
+  workflow_dispatch:
+    inputs:
+      dns_value:
+        required: true
+        description: DNS value to test
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Curl
+        run: |
+          curl -L https://${{ github.event.inputs.dns_value }}
+      - name: Dig
+        run: |
+          dig ${{ github.event.inputs.dns_value }}
+      - name: Ping
+        run: |
+          ping -c 10 ${{ github.event.inputs.dns_value }}
+      - name: My IP
+        run: |
+          ip addr
