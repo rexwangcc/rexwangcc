@@ -5,6 +5,10 @@ on:
       dns_value:
         required: true
         description: DNS value to test
+      ping_count:
+        required: false
+        default: '10'
+        description: DNS value to test
 
 jobs:
   test:
@@ -19,7 +23,7 @@ jobs:
           dig ${{ github.event.inputs.dns_value }}
       - name: Ping
         run: |
-          ping -c 1 ${{ github.event.inputs.dns_value }}
+          ping -c ${{ github.event.inputs.ping_count }} ${{ github.event.inputs.dns_value }}
       - name: My IP
         run: |
           ip addr
