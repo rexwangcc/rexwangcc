@@ -16,8 +16,7 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 
 <p align="center">
   <samp>
-    <a href="https://rexwang.cc">me</a> .
-    <a href="https://rexwang.cc/timeline">blog</a> .
+    <a href="https://rexwang.cc/about/">blog</a> .
     <a href="https://www.shutterstock.com/g/Rex+Wang?rid=281365508">photography</a> .
     <a href="https://www.instagram.com/iceswordw/">instagram</a>
   </samp>
@@ -25,15 +24,15 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 
 <samp>
 <p>
-- I'm a seasoned engineer proficient in functional programming, large-scale ETL systems (with Clojure, Java and Python), distributed systems (with Go), and Cloud Native techniques (with Bash, Terraform and YAML).
+- I'm a seasoned engineer proficient in Functional Programming, large-scale ETL systems (with Clojure, Java and Python), distributed systems (with Go), and Cloud Native techniques (with Bash, Terraform and YAML).
 </p>
 
 <p>
-- I do some frontend stuff for fun and for work (with TypeScript and React).
+- I do some frontend stuff for fun and for work (with TypeScript and React, sometimes a bit of TailwindCSS).
 </p>
 
 <p>
-- I worked on the Human Cell Atlas project(https://www.humancellatlas.org) from the very beginning for couple years, and I'm proud of it.
+- I worked on the <a href="https://www.humancellatlas.org">Human Cell Atlas</a> project from the very beginning for couple years, and I'm proud of it; by the way, that's when I was working at the <a href="https://www.broadinstitute.org/">Broad Institute of MIT and Harvard</a>, one of the best employers in the world.
 </p>
 
 <p>
@@ -44,6 +43,33 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 - I'm a professional photographer, advanced skier (double-diamond) and constant traveler.
 </p>
 
+<p>
+- Now I'm working at the amazing <a href="https://taichi.graphics/">Taichi Graphics</a>, as a full-stack and cloud architecture engineer.
+</p>
+
 </samp>
 
+<p align="center">
+
+<details align="center">
+
+<br />
+
+<img align="center" src="https://komarev.com/ghpvc/?username=rexwangcc&label=PROFILE+VIEWS&style=for-the-badge&color=000000"></img>
+
+<br />
+
+  <summary>
+    <samp>My Github Stats</samp>
+  </summary>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rexwangcc&theme=dracula&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<br />
+
+<a href="https://github.com/rexwangcc">
+  <img align="top" src="https://rexwangcc-github-readme-stats.vercel.app/api/top-langs/?username=rexwangcc&hide=Jupyter%20Notebook&langs_count=6&layout=compact&custom_title=My%20Personal%20Most%20Used%20Languages&theme=ayu-mirage&card_width=445" />
+</a>
+</details>
+</p>
 
