@@ -63,9 +63,8 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
     <samp>My Github Stats</samp>
   </summary>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rexwangcc&theme=dracula&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<br />
+<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rexwangcc&theme=dracula&hide_border=true&border_radius=2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ -->
 
 <a href="https://github.com/rexwangcc">
   <img align="top" src="https://rexwangcc-github-readme-stats.vercel.app/api/top-langs/?username=rexwangcc&hide=Jupyter%20Notebook&langs_count=6&layout=compact&custom_title=My%20Personal%20Most%20Used%20Languages&theme=ayu-mirage&card_width=445" />
