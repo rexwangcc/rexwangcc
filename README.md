@@ -47,8 +47,10 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 </p>
 
 <p>
-- Now I'm working at the amazing <a href="https://taichi.graphics/">Taichi Graphics</a>, as a full-stack and cloud architecture engineer.
+- I worked at <a href="https://meshy.ai/">Meshy AI</a> (nee <a href="https://taichi.graphics/">Taichi Graphics</a>), as a full-stack and cloud architecture engineer.
 </p>
+
+<p>I'm currently enjoying a gap of my career. Planning to take a course at Magnum Photos.</p>
 
 </samp>
 
