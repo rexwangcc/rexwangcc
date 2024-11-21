@@ -43,7 +43,7 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 </p>
 
 <p>
-- I'm a professional photographer, advanced skier (double-diamond) and constant traveler.
+- I'm a professional photographer (studied at Magnum Photos), advanced skier (double-diamond) and constant traveler.
 </p>
 
 <p>
@@ -52,7 +52,7 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 
 <br/>
 
-<p align="center"><strong>I'm currently enjoying a gap of my career. Planning to take a course at Magnum Photos.</strong></p>
+<p align="center"><strong>I'm currently enjoying a gap of my career and exploring new dimensions of possibilities.</strong></p>
 
 </center>
 </samp>
