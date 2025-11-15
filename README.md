@@ -52,7 +52,9 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 
 <br/>
 
-<p align="center"><strong>I'm currently enjoying a gap of my career and exploring new dimensions of possibilities.</strong></p>
+<p align="center"><s> (2024-2025) I'm currently enjoying a gap of my career and exploring new dimensions of possibilities.</s></p>
+
+<p align="center"><strong> now working at a quant hf</strong></p>
 
 </center>
 </samp>
