@@ -17,10 +17,10 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 <p align="center">
   <samp>
     <a href="https://rexwang.cc/about/">blog</a> .
-    <a href="https://www.linkedin.com/in/chengchenwang/">LinkedIn</a> .
+    <!-- <a href="https://www.linkedin.com/in/chengchenwang/">LinkedIn</a> .
     <a href="https://www.shutterstock.com/g/Rex+Wang?rid=281365508">photography@ShutterStock</a> .
     <a href="https://www.vogue.com/photovogue/photographers/331939">photography@Vogue</a> .
-    <a href="https://www.skypixel.com/users/djiuser-mmm7dgzyqbbk">droneography@SkyPixel</a> .
+    <a href="https://www.skypixel.com/users/djiuser-mmm7dgzyqbbk">droneography@SkyPixel</a> . -->
     <a href="https://www.instagram.com/iceswordw/">instagram</a>
   </samp>
 </p>
@@ -48,6 +48,10 @@ I'm a software engineer at [Broad Institute of MIT and Harvard](https://www.broa
 
 <p>
 - I worked at <a href="https://meshy.ai/">Meshy AI</a> (nee <a href="https://taichi.graphics/">Taichi Graphics</a>), as a full-stack and cloud architecture engineer.
+</p>
+
+<p>
+- I co-founded a photography-centric brand with my friends <a href="https://photoreason.art/">Photo Reason</a>.
 </p>
 
 <br/>
